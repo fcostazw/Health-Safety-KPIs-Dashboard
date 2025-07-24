@@ -100,4 +100,5 @@ This interactive Power BI dashboard empowers leadership and safety teams to:
 - **Culture Shift:** Transparent safety KPIs increased frontline engagement in monthly safety huddles.  
 
 ---
+<img width="1421" height="799" alt="Health_Safety_KPIs" src="https://github.com/user-attachments/assets/986ec727-fe14-43ba-b9ec-85ee46083318" />
 
